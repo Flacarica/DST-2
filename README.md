@@ -37,11 +37,11 @@
   Yappa yappa PCB yappa yappa type shi
 
 
-#After initial testing
+   # After initial testing
 
 After initial testing, the pedal seems to work but just barely. There is a whole lot of induced noise. The values for the filter are all over the place and make the pedal sound too muffled. Overall just a bad tone. I've since learned that JST connectors are really really unreliable and that the use of separate "modules" for the footswitch and the jack connectors is a bad idea. It adds complexity and are really really prone to failure / noise. I plan on redesigning it without all that fuss, one board to rule them all. The footswitch placement is still an issue tho. I can’t mount it directly on the PCB since I can’t reliably predict the final height of the whole assembly (it can be soldered higher or lower). Therefore, it needs to remain separate, with wires manually routed to it. The same applies to the jack connectors. The barrel connector on the other hand, i can have it on the PCB no problem since it needs some stability to work properly. The potentiometers need to be routed manually also.
 
-Conclusions:
+   ## Conclusions:
 -new pcb
 -manually route wires to pots/conns/switch
 -change filter values
