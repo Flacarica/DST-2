@@ -558,6 +558,10 @@
       {
         "netclass": "Power",
         "pattern": "GND"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(D4-K)"
       }
     ]
   },
@@ -712,7 +716,7 @@
         "uuid": "290d8ed5-7c7d-45fb-b622-db36a40d42ad"
       }
     ],
-    "used_designators": "R17-19,J1,J7,#PWR3-4,#PWR26-30,D4,C13-15,TP1-4,TP6-7",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

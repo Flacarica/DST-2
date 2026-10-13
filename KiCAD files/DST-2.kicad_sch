@@ -2998,7 +2998,7 @@
 			)
 		)
 	)
-	(global_label "in_p"
+	(global_label "IN_P"
 		(shape input)
 		(at 57.15 92.71 180)
 		(fields_autoplaced yes)
@@ -3010,7 +3010,7 @@
 		)
 		(uuid "b492b94c-8456-4fff-a3e3-8acc574d59e0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 50.2944 92.71 0)
+			(at 49.9919 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3046,7 +3046,7 @@
 			)
 		)
 	)
-	(global_label "out_p"
+	(global_label "OUT_P"
 		(shape input)
 		(at 226.06 100.33 0)
 		(fields_autoplaced yes)
@@ -3058,7 +3058,7 @@
 		)
 		(uuid "f5d3766c-b4eb-450f-afeb-a0bdfd0e994a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 234.1855 100.33 0)
+			(at 234.9114 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
